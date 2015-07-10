@@ -1,0 +1,9 @@
+#############
+## Java
+#############
+
+.class
+target/
+.project
+bin/
+.settings/
